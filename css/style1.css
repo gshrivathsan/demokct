@@ -287,7 +287,7 @@ footer {
 
 /*---------Contact---------*/
 #contact {
-    background: url(assets/contact.jpg) 50% 0 repeat-y fixed;
+    background: url(../assets/contact.jpg) 50% 0 repeat-y fixed;
     background-size: cover;
     background-position: center center;
     position: relative;
